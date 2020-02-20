@@ -4,10 +4,12 @@
     height: auto;
     margin: 30px 180px;
     padding: 30px;
-    border-radius: 3px;
+    border-radius: 20px;
 
     input[type='text']{
       width: 100%;
+      border-radius: 15px;
+      text-align: center;
     }
 
     .images{
@@ -125,6 +127,7 @@
     a{
       font-size: 15px;
       text-decoration: underline;
+      border-radius: 25px;
     }
   }
 }
